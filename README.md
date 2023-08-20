@@ -1,8 +1,15 @@
 # LightBnB
 
 
+ A clone of LightBNB , for educational purposes only
 
+## How to use:
 
+- install postgres , configure a database and user (this configuration 
+can be inputted in database.js
+- npm install
+- npm run 
+- point browser to localhost:3000
 
 
 ## Dependencies
@@ -10,7 +17,6 @@
 - Nodejs 16.13.2 
 - postgres server 
 - see package.json for Node js dependencies 
-
 
 ## Project Structure
 
