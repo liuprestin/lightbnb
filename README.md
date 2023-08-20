@@ -1,5 +1,17 @@
 # LightBnB
 
+
+
+
+
+
+## Dependencies
+
+- Nodejs 16.13.2 
+- postgres server 
+- see package.json for Node js dependencies 
+
+
 ## Project Structure
 
 ```
